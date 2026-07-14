@@ -5,4 +5,5 @@ _site
 .vscode
 .idea
 .DS_Store
-.bak
+*.bak
+*.bak
