@@ -5,7 +5,7 @@ layout: default
 <div class="page clearfix" index>
     <div class="left">
         <h1>Morningside Literary Review</h1>
-        <small>Bookand Media Reviews</small>
+        <small>Book and Media Reviews</small>
         <hr>
         <ul>
             {% for post in paginator.posts %}
